@@ -1,11 +1,11 @@
 Cab Fare Prediction
 
 Index
-Project Overview
-Objective
-Dataset
-Project Workflow
-Requirements
+  - Project Overview
+  - Objective
+  - Dataset
+  - Project Workflow
+  - Requirements
 
 Project Overview
 Imagine you're launching a cab service that’s ready to hit the national stage. After a successful pilot run, you've gathered valuable historical data.
