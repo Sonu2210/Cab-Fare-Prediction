@@ -7,17 +7,17 @@ Index
   - Project Workflow
   - Requirements
 
-Project Overview
+Project Overview :
 Imagine you're launching a cab service that’s ready to hit the national stage. After a successful pilot run, you've gathered valuable historical data.
 Now, it’s time to harness that data to predict cab fares with precision. This project aims to build a system that uses advanced analytics to forecast the cost of a cab ride in the city, based on factors like pickup and drop-off locations, timestamps, and passenger count.
 
 
 
-Objective
+Objective :
 Design a predictive model to estimate the fare amount for a cab ride using historical data collected from the pilot project. 
 The goal is to create a robust system that can accurately predict fares based on input features such as pickup and drop-off coordinates, timestamp, and passenger count.
 
-Dataset
+Dataset :
 The project uses both training and test datasets provided in the repository. The datasets contain the following attributes:
   - pickup_datetime: Timestamp value indicating when the cab ride started.
   - pickup_longitude: Float value for the longitude coordinate where the cab ride started.
@@ -26,7 +26,7 @@ The project uses both training and test datasets provided in the repository. The
   - dropoff_latitude: Float value for the latitude coordinate where the cab ride ended.
   - passenger_count: Integer indicating the number of passengers in the cab ride.
 
-Project Workflow
+Project Workflow :
 
   - Import Required Libraries
   - Set Up the Environment
@@ -47,7 +47,7 @@ Project Workflow
       - Predict fare amounts using the test dataset.
       - Save predictions and prepare them for submission.
 
-Requirements
+Requirements :
 Python 3.x
 Libraries:
   - pandas
